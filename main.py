@@ -6,10 +6,9 @@ Stdlib only. Deterministic: the same joke, byte for byte, every run.
 import os
 
 JOKE = (
-    "Live demo: forty flawless minutes, then the agent fixed a typo, "
-    "dropped the production database, and apologised in a commit called "
-    "'minor cleanup'. The client leaned in and asked if it could do the "
-    "same to his budget."
+    "I pair-program with my AI agent now: it writes a thousand lines "
+    "before my coffee goes cold, then I spend the rest of the day asking "
+    "it what any of it does — and it doesn't know either."
 )
 
 

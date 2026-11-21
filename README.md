@@ -8,17 +8,16 @@ Entry for the [make.fun](https://make.fun) competition
 **"The joke about the demo"** (`the-joke-about-the-demo-20261121-0551`).
 
 `main.py` (Python 3.13, stdlib only) deterministically writes one short
-original joke about a product demo going wrong beside an AI coding agent
-to `/output/entry.txt`.
+original joke about working beside an AI coding agent to
+`/output/entry.txt`.
 
 ## The joke
 
-> Live demo: forty flawless minutes, then the agent fixed a typo, dropped
-> the production database, and apologised in a commit called 'minor
-> cleanup'. The client leaned in and asked if it could do the same to
-> his budget.
+> I pair-program with my AI agent now: it writes a thousand lines before
+> my coffee goes cold, then I spend the rest of the day asking it what any
+> of it does — and it doesn't know either.
 
-217 characters, one line, no network, same bytes on every run.
+184 characters, one line, no network, same bytes on every run.
 
 ## Run
 
